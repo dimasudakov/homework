@@ -1,6 +1,6 @@
 [submodule "dolorosa"]
 	path = dolorosa
-	url = ./dolorosa
+	url = https://github.com/dimasudakov/dolorosa
 [submodule "nirvana"]
 	path = nirvana
-	url = ./nirvana
+	url = https://github.com/dimasudakov/nirvana
